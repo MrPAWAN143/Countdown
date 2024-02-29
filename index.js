@@ -1,4 +1,4 @@
-const endDate = "28 march 2024 12:00:01 AM" //future time
+const endDate = "27 march 2024 12:00:01 AM" //future time
 // const enddate = new Date(prompt("enter Date DD MM YYYY HH MM"));
 
 let birthday = document.querySelector(".endDate").innerHTML = endDate //
